@@ -55,7 +55,7 @@ public class TypeChart {
                     System.out.println("Please try again.");
                 }
                 
-            } catch (IOException e) {
+            } catch (IOException | NullPointerException e) {
                 System.out.println("");
                 System.out.println("***************************************");
                 System.out.println("Sorry the program has encountered an");
