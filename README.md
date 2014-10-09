@@ -17,3 +17,8 @@ left corner is left blank. Anything else can be freely modifed and this
 program can support an very large number of types before the runtime becomes 
 too slow.
 
+This program is a .jar file, but has unfortuantely has no UI so to run it please 
+use the terminal/command prompt and navigate to the location of the .jar file 
+(using cd) and then run it using the command "java -jar StringTruncate.jar". 
+On windows please ensure that the Java path is set correctly before running the
+program.
